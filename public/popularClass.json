@@ -1,0 +1,27 @@
+[
+    {
+      "id": "123",
+      "image": "class1.jpg",
+      "name": "Art of Italian Cuisine",
+      "instructor": "Chef Giovanni",
+      "availableSeats": 10,
+      "price": 29.99
+    },
+    {
+      "id": "4567",
+      "image": "class2.jpg",
+      "name": "Mastering French Pastries",
+      "instructor": "Chef Élise",
+      "availableSeats": 0,
+      "price": 49.99
+    },
+    {
+      "id": "8910",
+      "image": "class3.jpg",
+      "name": "Asian Fusion Cooking",
+      "instructor": "Chef Li",
+      "availableSeats": 5,
+      "price": 19.99
+    }
+  ]
+  

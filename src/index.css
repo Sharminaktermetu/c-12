@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Light theme */
+/* Light theme */
+.home-container.light {
+    background-color: #f9f9f9;
+    color: #1d1b1b;
+    
+  }
+  
+  /* Dark theme */
+  .home-container.dark {
+    background-color: #333;
+    color: #5c5656;
+  }
+  .navbar-center ul li.active {
+    color: orange;
+  }
